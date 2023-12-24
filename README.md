@@ -10,20 +10,20 @@ Welcome to my personal portfolio! This project is a simple web development portf
 
 ## Features
 
-- **Header Section:** Displays name along with a brief introduction or tagline.
+- **Header Section:** Displays name along with a brief tagline.
 - **About Section:** A short bio and an image.
 - **Skills Section:** List key skills or areas of expertise.
-- **Projects Section:** Showcase samples of your work with project titles, descriptions, and images.
-- **Resume Section:** Provide a link to download your resume in PDF format.
-- **Contact Section:** Contact information, such as email address and phone number.
-- **Footer:** Includes a copyright notice and space for additional links or information.
+- **Projects Section:** Showcase samples of my work with project titles, descriptions, and images.
+- **Resume Section:** A link to download my resume in PDF format.
+- **Contact Section:** Contact information, such as LinkedIn URL, email address and phone number.
+- **Footer:** Includes a copyright notice.
 
 ## Getting Started
 
 1. Clone the repository:
 
    Using *HTTPS:* `git clone https://github.com/your-username/your-portfolio.git`
-   Using *SSH:* `git clone`
+   Using *SSH:* `git clone git@github.com:g19n8812/CODSOFT_TASK2.git`
 
 2. Open the project in your preferred code editor.
 
